@@ -20,6 +20,10 @@ h2 {
     line-height: normal;
 }
 
+img {
+    max-width: 200px;
+}
+
 body,h3 {
     color: #000;
     font-family: Kreon;
